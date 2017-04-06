@@ -1,2 +1,2 @@
 # praktikummetnum
-Wadah program matlab untuk teman-teman Informatika dalam mengerjakan mata kuliah Metode Numerik
+Wadah materi dan program matlab untuk teman-teman Informatika dalam mengerjakan mata kuliah Metode Numerik
